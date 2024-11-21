@@ -99,7 +99,7 @@ header .content p {
 }
 
 header::before {
-    content: "Hello World";
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
